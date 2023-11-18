@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aisya-A5
-- 👀 I’m interested in Machine Learning, Cybersecurity, and game developing
-- 🌱 I’m currently learning all the things I'm interested in one by one, from the basic
+- 👀 I’m interested in Game development, Python, and back-end web development.
+- 🌱 I’m currently learning how to be good at my studies and focusing in python...
+- 📒 Eng. stud.
 
 <!---
 Aisya-A5/Aisya-A5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
